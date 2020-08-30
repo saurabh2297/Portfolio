@@ -8,6 +8,7 @@ body{
     height: 500px;
     background-attachment: fixed;
     background-position: center;
+    padding-top: 40px;
 }
 .fst{
     background-image: url(2b.jpg);
